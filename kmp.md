@@ -1,4 +1,4 @@
-# Knuth-Morris-Pratt (KMP) Algorithm
+# Knuth-Morris-Pratt (KMP) Algorithm 
 
 ## Overview
 KMP is a string-matching algorithm that improves on the naive approach by avoiding redundant character comparisons. It uses information from the pattern itself to skip sections of the text.
